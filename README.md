@@ -11,7 +11,7 @@ This project is a mini quiz to test yourself on basic coding concepts and see ho
 - [Author](#author)
 
 ## Installation
-Clone this to your repository and then open the index.html file using your browser
+Clone this repository to your local machine and then open the index.html file using your browser
 
 ## Deployed
 See it live [here](https://chris-reilly99.github.io/code-quiz/)
