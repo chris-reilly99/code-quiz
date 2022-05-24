@@ -1,1 +1,22 @@
 # code-quiz
+
+## Description
+This project is a mini quiz to test yourself on basic coding concepts and see how you rank amongst others.
+
+## Table of Contents
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Deployed](#deployed)
+- [Author](#author)
+
+## Installation
+Clone this to your repository and then open the index.html file using your browser
+
+## Deployed
+See it live [here]()
+
+
+## Author
+Chris Reilly
+GitHub:[chris-reilly99](https://github.com/chris-reilly99)
